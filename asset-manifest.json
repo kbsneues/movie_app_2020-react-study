@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kbsneues/movie_app_2020/static/css/main.6d01c838.chunk.css",
+    "main.js": "/kbsneues/movie_app_2020/static/js/main.864823c8.chunk.js",
+    "main.js.map": "/kbsneues/movie_app_2020/static/js/main.864823c8.chunk.js.map",
+    "runtime-main.js": "/kbsneues/movie_app_2020/static/js/runtime-main.48d10424.js",
+    "runtime-main.js.map": "/kbsneues/movie_app_2020/static/js/runtime-main.48d10424.js.map",
+    "static/js/2.cdc3c92b.chunk.js": "/kbsneues/movie_app_2020/static/js/2.cdc3c92b.chunk.js",
+    "static/js/2.cdc3c92b.chunk.js.map": "/kbsneues/movie_app_2020/static/js/2.cdc3c92b.chunk.js.map",
+    "index.html": "/kbsneues/movie_app_2020/index.html",
+    "precache-manifest.d98df53e269c6cd4f6d0b23301de1155.js": "/kbsneues/movie_app_2020/precache-manifest.d98df53e269c6cd4f6d0b23301de1155.js",
+    "service-worker.js": "/kbsneues/movie_app_2020/service-worker.js",
+    "static/css/main.6d01c838.chunk.css.map": "/kbsneues/movie_app_2020/static/css/main.6d01c838.chunk.css.map",
+    "static/js/2.cdc3c92b.chunk.js.LICENSE.txt": "/kbsneues/movie_app_2020/static/js/2.cdc3c92b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d10424.js",
+    "static/js/2.cdc3c92b.chunk.js",
+    "static/css/main.6d01c838.chunk.css",
+    "static/js/main.864823c8.chunk.js"
+  ]
+}
